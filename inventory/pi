@@ -1,0 +1,9 @@
+[pi]
+pi.supermaru.com
+pi2.supermaru.com
+pi3.supermaru.com
+pi4.supermaru.com
+
+[all:vars]
+ansible_connection=ssh
+ansible_user=macky
